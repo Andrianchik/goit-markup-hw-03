@@ -177,7 +177,7 @@ a{
 
 }
 .advantage-item {
-    width: calc((100%-72px) / 4);
+    width: calc((100% - 72px) / 4);
 }
 .advantage-subtitle {
     font-weight: 500;
