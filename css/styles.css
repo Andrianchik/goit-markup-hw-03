@@ -213,7 +213,6 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-margin-bottom: 8px
 }
 .team-list {
     background-color: #FFFFFF;
@@ -239,6 +238,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+margin-bottom: 8px
 }
 .team-text {
 font-size: 16px;
